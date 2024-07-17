@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.ifgoiano.doc.api","c":"ApiController","l":"ApiController()","u":"%3Cinit%3E()"},{"p":"com.ifgoiano.doc.api","c":"ApiController","l":"getCalc(int, int, String)","u":"getCalc(int,int,java.lang.String)"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ifgoiano.doc.api","l":"ApiController"}];updateSearchResults();
